@@ -1,7 +1,7 @@
 {
       "pages":[
             "pages/index/index",
-            "pages/goodList/goodList",
+            "pages/goodsList/goodsList",
             "pages/shopping/shopping",
             "pages/newAddr/newAddr",
             "pages/chooseAddress/chooseAddress",
